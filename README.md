@@ -1,7 +1,7 @@
 # Primeiro Projeto Git
 
-### Meu primeiro projeto no Github nas aulas do professor Júnior
+### Meu primeiro projeto nas aulas do professor Júnior Gonçalves
 
 - **Faculdade:** Fatec Ogari de Castro Pacheco (Itapira)
 - **Curso:** Desenvolvimento de Software Multiplataforma
-- **Aluno:** [@jrgoncalves85](https://www.github.com/jrgoncalves85)
+- **Aluno:** Júnior Gonçalves - Perfil do Github: [@jrgoncalves85](https://www.github.com/jrgoncalves85)
